@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a84430089246c8bd965abe6881f9739",
+    "revision": "92c26b6c0e731358657db135d485f3b3",
     "url": "/Harsha-Portfolio/index.html"
   },
   {
-    "revision": "c2a7e69fefe8f0aa1274",
-    "url": "/Harsha-Portfolio/static/css/main.1e32ff3f.chunk.css"
+    "revision": "127defc633fe790c3791",
+    "url": "/Harsha-Portfolio/static/css/main.e1e4461e.chunk.css"
   },
   {
-    "revision": "19db38c4aad49c2ae3d0",
-    "url": "/Harsha-Portfolio/static/js/2.1ebceab1.chunk.js"
+    "revision": "2fcce87d9743254d0b40",
+    "url": "/Harsha-Portfolio/static/js/2.ec89d98c.chunk.js"
   },
   {
-    "revision": "c2a7e69fefe8f0aa1274",
-    "url": "/Harsha-Portfolio/static/js/main.73090c71.chunk.js"
+    "revision": "127defc633fe790c3791",
+    "url": "/Harsha-Portfolio/static/js/main.d58cc769.chunk.js"
   },
   {
     "revision": "465089a106b301f22387",
@@ -108,8 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Harsha-Portfolio/static/media/education.3bab7a9d.svg"
   },
   {
-    "revision": "755b8b75f5126157acb66ecd860a72a0",
-    "url": "/Harsha-Portfolio/static/media/experience.755b8b75.svg"
+    "revision": "b7f9e39789476e377e12b736faa02745",
+    "url": "/Harsha-Portfolio/static/media/experience.b7f9e397.svg"
   },
   {
     "revision": "0017cc6de3f72f67753efa37bb796fbd",
@@ -242,6 +242,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
     "url": "/Harsha-Portfolio/static/media/portfolio.414dfbd9.gif"
+  },
+  {
+    "revision": "5dead07629581e6c4eec6da5678e3c5b",
+    "url": "/Harsha-Portfolio/static/media/pret.5dead076.png"
+  },
+  {
+    "revision": "def1654d2eb05b6caeb229f959584d10",
+    "url": "/Harsha-Portfolio/static/media/pret.def1654d.jpg"
   },
   {
     "revision": "5faf790badc18fa9030f94836ece1df1",

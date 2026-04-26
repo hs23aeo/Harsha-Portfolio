@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Harsha-Portfolio/static/css/main.1e32ff3f.chunk.css",
-    "main.js": "/Harsha-Portfolio/static/js/main.73090c71.chunk.js",
-    "main.js.map": "/Harsha-Portfolio/static/js/main.73090c71.chunk.js.map",
+    "main.css": "/Harsha-Portfolio/static/css/main.e1e4461e.chunk.css",
+    "main.js": "/Harsha-Portfolio/static/js/main.d58cc769.chunk.js",
+    "main.js.map": "/Harsha-Portfolio/static/js/main.d58cc769.chunk.js.map",
     "runtime-main.js": "/Harsha-Portfolio/static/js/runtime-main.fe7c6979.js",
     "runtime-main.js.map": "/Harsha-Portfolio/static/js/runtime-main.fe7c6979.js.map",
-    "static/js/2.1ebceab1.chunk.js": "/Harsha-Portfolio/static/js/2.1ebceab1.chunk.js",
-    "static/js/2.1ebceab1.chunk.js.map": "/Harsha-Portfolio/static/js/2.1ebceab1.chunk.js.map",
+    "static/js/2.ec89d98c.chunk.js": "/Harsha-Portfolio/static/js/2.ec89d98c.chunk.js",
+    "static/js/2.ec89d98c.chunk.js.map": "/Harsha-Portfolio/static/js/2.ec89d98c.chunk.js.map",
     "index.html": "/Harsha-Portfolio/index.html",
-    "precache-manifest.09a32aa9ba7536b79b4204f27db20386.js": "/Harsha-Portfolio/precache-manifest.09a32aa9ba7536b79b4204f27db20386.js",
+    "precache-manifest.0a2ae56126834878aa517dce3082e3a3.js": "/Harsha-Portfolio/precache-manifest.0a2ae56126834878aa517dce3082e3a3.js",
     "service-worker.js": "/Harsha-Portfolio/service-worker.js",
-    "static/css/main.1e32ff3f.chunk.css.map": "/Harsha-Portfolio/static/css/main.1e32ff3f.chunk.css.map",
+    "static/css/main.e1e4461e.chunk.css.map": "/Harsha-Portfolio/static/css/main.e1e4461e.chunk.css.map",
     "static/media/index.css": "/Harsha-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/PROFILKE_.jpg": "/Harsha-Portfolio/static/media/PROFILKE_.6211df5d.jpg",
     "static/media/University_of_Hertfordshire_logo.png": "/Harsha-Portfolio/static/media/University_of_Hertfordshire_logo.9af7b85d.png",
@@ -26,7 +26,7 @@
     "static/media/deeplearning_ai_logo.png": "/Harsha-Portfolio/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/dsc_logo.png": "/Harsha-Portfolio/static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "/Harsha-Portfolio/static/media/education.3bab7a9d.svg",
-    "static/media/experience.svg": "/Harsha-Portfolio/static/media/experience.755b8b75.svg",
+    "static/media/experience.svg": "/Harsha-Portfolio/static/media/experience.b7f9e397.svg",
     "static/media/all.css": "/Harsha-Portfolio/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.png": "/Harsha-Portfolio/static/media/feelingProud.c446a193.png",
     "static/media/fullstack.svg": "/Harsha-Portfolio/static/media/fullstack.fce60807.svg",
@@ -46,6 +46,8 @@
     "static/media/ni_logo.jpg": "/Harsha-Portfolio/static/media/ni_logo.43138f83.jpg",
     "static/media/nptel_logo.png": "/Harsha-Portfolio/static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "/Harsha-Portfolio/static/media/portfolio.414dfbd9.gif",
+    "static/media/pret.png": "/Harsha-Portfolio/static/media/pret.5dead076.png",
+    "static/media/pret.jpg": "/Harsha-Portfolio/static/media/pret.def1654d.jpg",
     "static/media/programmer.svg": "/Harsha-Portfolio/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/Harsha-Portfolio/static/media/projects_image.b8ba9487.svg",
     "static/media/projects_image_female.svg": "/Harsha-Portfolio/static/media/projects_image_female.f8c38910.svg",
@@ -60,8 +62,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fe7c6979.js",
-    "static/js/2.1ebceab1.chunk.js",
-    "static/css/main.1e32ff3f.chunk.css",
-    "static/js/main.73090c71.chunk.js"
+    "static/js/2.ec89d98c.chunk.js",
+    "static/css/main.e1e4461e.chunk.css",
+    "static/js/main.d58cc769.chunk.js"
   ]
 }
