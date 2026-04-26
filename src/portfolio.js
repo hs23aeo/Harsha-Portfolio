@@ -2,18 +2,18 @@
 
 // Website related settings
 const settings = {
-  isSplash: false, 
+  isSplash: false,
 };
 
 // SEO Related settings
 const seo = {
-  title: "Harsha R Sharma's Portfolio",
+  title: "Harsha R Sharma | GRC & Cyber Security Analyst",
   description:
-    "Cyber Security Specialist and IAM Consultant. Expert in securing digital identities, automating security workflows, and AI-driven threat classification.",
+    "GRC and Technology analyst with 1.5 years at Deloitte USI (Big 4) in ISO 27001/SOC 2 compliance, risk assessments, and process automation. MSc Cyber Security with Advanced Research — Commendation (University of Hertfordshire, 2026). Research focus on EU AI Act and NIST AI RMF.",
   og: {
-    title: "Harsha R Sharma's Portfolio",
+    title: "Harsha R Sharma | GRC & Cyber Security Analyst",
     type: "website",
-    url: "https://github.com/harshars112",
+    url: "https://github.com/hs23aeo",
   },
 };
 
@@ -23,9 +23,10 @@ const greeting = {
   logo_name: "HarshaRSharma",
   nickname: "The Solver",
   subTitle:
-    "Cyber Security Specialist & IAM Consultant with 'Big 4' experience at Deloitte. I specialize in Identity & Access Management , securing SDLC processes , and leveraging AI for threat detection. Currently finalizing an MSc in Cyber Security with Advanced Research.",
-  resumeLink: "https://docs.google.com/document/d/1kPn8mi4B39n58hPyHwWy8wf0LiAk1NyU/edit?usp=drive_link&ouid=101629678604820420535&rtpof=true&sd=true",
-  portfolio_repository: "https://github.com/harshars112",
+    "GRC and Technology analyst with 1.5 years at Deloitte USI (Big 4) in ISO 27001/SOC 2 compliance, risk assessments, and process automation. Hands-on experience with Azure Logic Apps, Microsoft Power Platform, ServiceNow, and Python. MSc Cyber Security with Advanced Research — Commendation (University of Hertfordshire, 2026). Research focus on EU AI Act and NIST AI RMF. Open to contract roles in GRC, technology consulting, and Microsoft technology stack.",
+  resumeLink:
+    "https://docs.google.com/document/d/1kPn8mi4B39n58hPyHwWy8wf0LiAk1NyU/edit?usp=drive_link&ouid=101629678604820420535&rtpof=true&sd=true",
+  portfolio_repository: "https://github.com/hs23aeo",
   githubProfile: "https://github.com/hs23aeo",
 };
 
@@ -38,7 +39,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/harsha-r-sharma/",
+    link: "https://www.linkedin.com/in/harsha-sharma-71345b222/",
     fontAwesomeIcon: "fa-linkedin-in",
     backgroundColor: "#0077B5",
   },
@@ -53,13 +54,13 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Identity & Access Management (IAM)",
+      title: "GRC & Compliance",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Expert in PAM solutions, IAM policies, and Managed Password Objects.",
-        "⚡ Managing secure workflows for technical change reviews and access governance.",
-        "⚡ Ensuring compliance with SOC 2, ISO 27001, GDPR, and NIST Frameworks.",
-        "⚡ Deep experience in ServiceNow Queue Management and Incident Resolution.",
+        "⚡ ISO 27001 and SOC 2 compliance — risk assessments, control frameworks, and audit support.",
+        "⚡ Third-party risk management and vendor due diligence.",
+        "⚡ Translating compliance requirements into technical specifications for engineering teams.",
+        "⚡ AI governance research — EU AI Act, NIST AI RMF, and ISO 42001 frameworks.",
       ],
       softwareSkills: [
         {
@@ -73,20 +74,20 @@ const skills = {
           style: { color: "#0089D6" },
         },
         {
-          skillName: "Docker",
-          fontAwesomeClassname: "logos-docker-icon",
-          style: { backgroundColor: "transparent" },
+          skillName: "ServiceNow",
+          fontAwesomeClassname: "simple-icons:servicenow",
+          style: { color: "#62D84E" },
         },
       ],
     },
     {
-      title: "Security Automation & AI",
+      title: "Security Automation & Microsoft Technology",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Developing AI-powered threat detection using NLP (BERT, RoBERTa) to classify malicious activities.",
-        "⚡ Automating security tasks and compliance reporting using Azure Logic Apps and Python.",
-        "⚡ Conducting research into secure-by-design principles and distributed system security.",
-        "⚡ Advanced scripting in Python for operational security task accuracy.",
+        "⚡ Process automation using Azure Logic Apps and Microsoft Power Platform.",
+        "⚡ AI-powered threat detection using NLP (BERT, RoBERTa) and graph-based ML.",
+        "⚡ DLP architecture design across M365 environments.",
+        "⚡ Vulnerability scanning and penetration testing — CTF and HackTheBox.",
       ],
       softwareSkills: [
         {
@@ -127,7 +128,7 @@ const degrees = {
       subtitle: "MSc in Cyber Security with Advanced Research",
       logo_path: "herts_logo.webp",
       alt_name: "University of Hertfordshire",
-      duration: "Jan 2024 - Feb 2026 (Expected)",
+      duration: "Jan 2024 - Feb 2026 ",
       descriptions: [
         "⚡ Focus on Digital Forensics, Penetration Testing, and Cyber Operations.",
         "⚡ Dissertation: AI-Powered Threat Detection using NLP and graph-based ML models.",
@@ -160,16 +161,8 @@ const certifications = {
       color_code: "#C74634",
     },
     {
-      title: "ISC2 CCSP",
-      subtitle: "- Certified Cloud Security Professional",
-      logo_path: "isc2_logo.png",
-      certificate_link: "#",
-      alt_name: "ISC2",
-      color_code: "#000000",
-    },
-    {
       title: "CompTIA Security+",
-      subtitle: "- CompTIA",
+      subtitle: "- In Progress",
       logo_path: "comptia_logo.png",
       certificate_link: "#",
       alt_name: "CompTIA",
@@ -182,7 +175,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "Over 1.5 years of experience in 'Big 4' environments, specializing in application security, process automation, and identity governance.",
+    "1.5 years at Deloitte USI (Big 4) in GRC, ISO 27001/SOC 2 compliance, risk assessments, and process automation. UK-based experience in system training and agile delivery.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -190,14 +183,25 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "System Trainer",
+          company: "Pret A Manger",
+          company_url: "https://www.pret.co.uk/",
+          logo_path: "pret.jpg",
+          duration: "March 2024 – December 2025",
+          location: "Stevenage, UK",
+          description:
+            "Delivered onboarding and system training to new staff on internal platforms. Developed training materials and guides to support adoption. Supported continuous improvement of training delivery.",
+          color: "#8B0000",
+        },
+        {
           title: "Associate Analyst",
-          company: "Deloitte USI Hyderabad, India",
+          company: "Deloitte USI",
           company_url: "https://www2.deloitte.com/",
           logo_path: "deloitte_logo.png",
           duration: "Aug 2022 – Jan 2024",
           location: "Hyderabad, India",
           description:
-            "Managed secure workflows for technical change reviews and access governance. Deployed automated workflows via Azure Logic Apps, ensuring compliance with ISO 27001/SOC 2 standards.",
+            "Primary GRC liaison for technology change reviews. Ran Security Impact Assessments to identify risks before deployment. Maintained ISO 27001 and SOC 2 compliance. Built automated workflows in Azure Logic Apps saving 10+ manual hours per week. Produced MI reports for senior stakeholders.",
           color: "#86BC25",
         },
       ],
@@ -206,16 +210,15 @@ const experience = {
       title: "Internships and Volunteerships",
       work: false,
       experiences: [
-        
         {
-          title: "Technical Trainee (Identity Security)",
+          title: "Technical Trainee",
           company: "Global Education Pvt Ltd",
           company_url: "",
           logo_path: "global_edu_logo.png",
           duration: "June 2021 – July 2022",
           location: "Nagpur, India",
           description:
-            "Oversaw security for 2,000+ sensitive applications and performed foundational security testing using Java and Python.",
+            "Managed security of 2,000+ sensitive student records. Performed vulnerability testing using Java and Python, identifying and remediating critical access point flaws.",
           color: "#000000",
         },
       ],
@@ -226,7 +229,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "Key projects include AI-powered threat detection for social media account classification and designing theoretical DLP architectures for multi-region cloud environments.",
+    "Three projects — an AI threat detection pipeline built for my MSc dissertation, a DLP architecture design, and a collaborative vulnerability scanner with a live demo.",
   avatar_image_path: "projects_image_female.svg",
 };
 
@@ -245,11 +248,12 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "PROFILKE_.jpg",
     description:
-      "I am available on LinkedIn and Gmail. I can help you with IAM, PAM solutions, and Cyber Security research.",
+      "Available for contract and permanent GRC, IT Risk, and Cyber Security roles in London. Open to Microsoft technology stack and consulting opportunities.",
   },
   blogSection: {
     title: "Blogs",
-    subtitle: "Documentation of my professional journey and technical knowledge sharing. Coming soon.",
+    subtitle:
+      "Technical writing on GRC, AI governance, and cyber security. Coming soon.",
     link: "",
     avatar_image_path: "blogs_image_female.svg",
   },
@@ -265,8 +269,8 @@ const contactPageData = {
     location_map_link: "",
   },
   phoneSection: {
-    title: "Phone Number",
-    subtitle: "+44 07452751029",
+    title: "Contact",
+    subtitle: "harshars112@gmail.com",
   },
 };
 
